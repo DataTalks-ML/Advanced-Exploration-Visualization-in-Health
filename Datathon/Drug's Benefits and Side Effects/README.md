@@ -5,7 +5,11 @@
 
 ### Description
 
-According to McKinsey (via TechEmergence), “Big data and machine learning in pharma and medicine could generate a value of up to $100 billion annually, based on better decision-making, optimized innovation, improved efficiency of research/clinical trials, and new tool creation for physicians, consumers, insurers and regulators.” The main goal of this Datathon is to analyze and visualize the provided drug_review dataset in a creative and insightful way. Drug Review helps ensure that scarce health care resources are used to fund the most effective drugs. Clinicians, researchers, payers, and patients all have important but potentially different ideas on what should be considered to determine a drug’s value. Our team wanted to look specifically at the reviews related to drugs used to treat anxiety and depression. The dataset for this datathon was collected by Gräßer, Felix et al. [1], and it provides patient reviews on specific drugs, along with related conditions and a 10-star patient rating system reflecting overall patient satisfaction.
+According to McKinsey (via TechEmergence), “Big data and machine learning in pharma and medicine could generate a value of up to $100 billion annually, based on better decision-making, optimized innovation, improved efficiency of research/clinical trials, and new tool creation for physicians, consumers, insurers and regulators.” The main goal of this Datathon is to analyze and visualize the provided drug_review dataset in a creative and insightful way. Drug Review helps ensure that scarce health care resources are used to fund the most effective drugs. Clinicians, researchers, payers, and patients all have important but potentially different ideas on what should be considered to determine a drug’s value. 
+
+Our team wanted to look specifically at the reviews related to drugs used to treat anxiety and depression. The provided datasets were modified using a combination of R, Python, and Tableau Prep, then we applied NLP techniques in R Studio and Python. The dataset for this datathon was collected by Gräßer, Felix et al. [1], and it provides patient reviews on specific drugs, along with related conditions and a 10-star patient rating system reflecting overall patient satisfaction.
+
+Hopefully, this will help inform pharmacists in selecting the right choice of drugs for potential patients.
 
 ### Tableau Visualization
 ![Word Cloud for Most Reviewed Drugs](https://user-images.githubusercontent.com/72405141/133524110-e8ebc9df-4727-4a47-a1d0-8ef78037b41a.png)
